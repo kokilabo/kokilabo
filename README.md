@@ -1,3 +1,4 @@
+```json
 {
   "koki": {
     "country": "Japan",
@@ -5,8 +6,8 @@
     "gender": "male",
     "home_page": null,
     "keyboard": "qwerty",
-    "favo_langs": ["python", "C++"],
+    "langs": ["python", "C++"],
     "git_hub": "https://github.com/kokilabo"
   }
 }
-
+```
