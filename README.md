@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**kokilabo/kokilabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "koki": {
+    "country": "Japan",
+    "age": null,
+    "gender": "male",
+    "home_page": null,
+    "keyboard": "qwerty",
+    "langs": ["python", "C++"],
+    "git_hub": "https://github.com/kokilabo"
+  }
+}
+```
