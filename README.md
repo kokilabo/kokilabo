@@ -6,6 +6,7 @@
     "home_page": null,
     "keyboard": "qwerty",
     "favo_langs": ["python", "C++"],
-    "github": "https://github.com/kokilabo"
+    "git_hub": "https://github.com/kokilabo"
   }
 }
+
