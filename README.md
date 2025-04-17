@@ -7,7 +7,7 @@
     "home_page": null,
     "keyboard": "qwerty",
     "langs": ["python", "C++"],
-    "github_pages": "https://github.com/kokilabo"
+    "github_pages": "https://kokilabo.github.io/koki-labo/"
   }
 }
 ```
